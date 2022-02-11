@@ -40,7 +40,8 @@ img {
     text-align: center;
 }
 
-.qr-code__description h3 {
+.qr-code__description h1 {
+    font-size: 18px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     padding-bottom: 1rem;
